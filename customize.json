@@ -1,0 +1,23 @@
+{
+  "greeting": "HBD",
+  "name": "Stefan",
+  "greetingText": "Apa kabar bos besar?",
+  "wishText": "Panjang umur dan sehat selalu, dari adik dan koko tercinta",
+  "imagePath": "img/stefan.jpg",
+  "text1": "Hari ini kamu menetas",
+  "textInChatBox": "Selamat Ulang tahun Koko Tepang, blah blah blah",
+  "sendButtonLabel": "Send",
+  "text2": "Itu yang akan saya lakukan",
+  "text3": "Tetapi, saya berhenti.",
+  "text4": "Saya mau sesuatu yang",
+  "text4Adjective": "SPESIAL",
+  "text5Entry": "karena...",
+  "text5Content": "Kamu Spesial",
+  "smiley": "<3",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "Sekian dan terimakasih, from Calvin and William",
+  "replayText": "click, to watch it again.",
+  "outroSmiley": "<3"
+}
